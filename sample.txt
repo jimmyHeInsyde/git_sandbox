@@ -1,1 +1,2 @@
 I am a text file :)
+This file edited from other repository.
